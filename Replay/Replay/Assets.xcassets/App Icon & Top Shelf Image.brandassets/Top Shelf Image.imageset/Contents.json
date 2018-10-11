@@ -2,8 +2,13 @@
   "images" : [
     {
       "idiom" : "tv",
-      "filename" : "AppleTV-TopShelf-1920@1x.png",
+      "filename" : "AppleTV-TopShelf-1920@1x copy.jpg",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "filename" : "AppleTV-TopShelf-1920@1x copyx2.jpg",
+      "scale" : "2x"
     }
   ],
   "info" : {

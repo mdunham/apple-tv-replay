@@ -2,8 +2,13 @@
   "images" : [
     {
       "idiom" : "tv",
-      "filename" : "Replay11.png",
+      "filename" : "Replay11_ small.jpg",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "tv",
+      "filename" : "Replay11_ mid.jpg",
+      "scale" : "2x"
     }
   ],
   "info" : {
